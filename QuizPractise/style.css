@@ -1,0 +1,23 @@
+body{
+    background-color: lightpink;
+    padding: 20%;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table *{
+    border: solid 1px lightskyblue;
+
+}
+
+th{
+    background-color: lightgray;
+    padding: 5px 10px;
+}
+
+td{
+    text-align: center;
+    background-color: white;
+}
